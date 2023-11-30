@@ -8,3 +8,20 @@
 
 using namespace cv;
 using namespace std;
+
+struct pos
+    {
+        /* data */
+        float x;
+        float y;
+        
+    };
+
+
+int main ()
+{
+    
+
+
+    
+}
